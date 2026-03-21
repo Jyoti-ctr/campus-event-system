@@ -192,7 +192,3 @@ npm run build
 ### Typography
 - Headings: Montserrat (700)
 - Body: Inter (400, 500, 600)
-
-## License
-
-MIT License
